@@ -6,6 +6,6 @@ function logar(){
         alert('Sucesso');
         location.href = "./Biketec.html"
     }else{
-        alert('Erro!! Senha Incorreta, tente novamente')
+        alert('Erro!! Login ou senha Incorreta, tente novamente')
     }
 }
